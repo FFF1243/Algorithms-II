@@ -1,0 +1,18 @@
+Operacja:;Wielkosc strukutry:;Czas[ms];;;
+TSPFullSearch;11;408.046846;;;
+TSPFullSearch;12;4822.904968;;;
+TSPFullSearch;13;17783,25322;;;592775,1073
+TSPFullSearch;11;4223.255309;;;
+TSPFullSearch;12;46065.520593;;;
+TSPFullSearch;11;4095.704099;;;ms
+TSPFullSearch;12;44463.207111;;;
+TSPFullSearch;13;573706.407506;;;
+;;;;;
+;;;;;
+;;;;;
+Operacja:;Wielkosc strukutry:;Czas[ms];;;
+TSPFullSearch1415;9;40.472446;;;
+TSPFullSearch1415;10;374.258157;;;
+TSPFullSearch;11;4095.704099;;;
+TSPFullSearch;12;44463.207111;;;
+TSPFullSearch;13;573706.407506;;;

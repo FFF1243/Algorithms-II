@@ -1,0 +1,11 @@
+﻿  Salesman.cpp
+  Test.cpp
+Test.cpp(14): warning C4101: 'allEdges': unreferenced local variable
+  Generating code
+c:\users\sebas\onedrive\dokumenty\visual studio 2015\projects\sdizo3\sdizo3\matrix.cpp(55): warning C4715: 'Matrix::GetRow': not all control paths return a value
+  28 of 333 functions ( 8.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    12 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SDiZO3.vcxproj -> C:\Users\sebas\OneDrive\dokumenty\visual studio 2015\Projects\SDiZO3\x64\Release\SDiZO3.exe
+  SDiZO3.vcxproj -> C:\Users\sebas\OneDrive\dokumenty\visual studio 2015\Projects\SDiZO3\x64\Release\SDiZO3.pdb (Full PDB)

@@ -1,0 +1,10 @@
+﻿  main.cpp
+  Test.cpp
+c:\users\sebas\onedrive\dokumenty\visual studio 2015\projects\sdizo3\sdizo3\test.cpp(13): warning C4101: 'allEdges': unreferenced local variable
+  HelperMethods.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Matrix.cpp
+  Knapsack.cpp
+  SDiZO3.vcxproj -> C:\Users\sebas\OneDrive\dokumenty\visual studio 2015\Projects\SDiZO3\Debug\SDiZO3.exe
+  SDiZO3.vcxproj -> C:\Users\sebas\OneDrive\dokumenty\visual studio 2015\Projects\SDiZO3\Debug\SDiZO3.pdb (Full PDB)
